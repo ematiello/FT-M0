@@ -1,0 +1,32 @@
+html {
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-image: url('https://www.solofondos.com/wp-content/uploads/2017/08/e_hd169_9-minimalistic-768x432.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    color: blue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: cadetblue;
+    padding: 50px;
+    border-color: black;
+    border-radius: 20px;
+        
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
